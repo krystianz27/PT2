@@ -20,11 +20,11 @@
 
 
   $(document).ready(function(){
-    $("#b4").click(function(){
+    $("#b13").click(function(){
       $("#img1").hide();
-      console.log($("#demo"))
-      $("#demo").load("./k1.html");
-      // $("#demo").html("sdsa");
+      // console.log($("#p1"))
+      $("#p1").load("k1.html");
+      // $("#p1").html("sdsa");
     });
   });
 
