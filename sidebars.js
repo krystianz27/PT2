@@ -24,8 +24,8 @@
     $("#b13").click(function(){
       $("#img1").hide();
       // console.log($("#p1"))
-      // $("#p1").load("k1.html");
-      $("#p1").html("New text");
+      $("#p1").load("k1.html");
+      // $("#p1").html("New text");
     });
   });
 
