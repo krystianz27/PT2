@@ -13,6 +13,7 @@ document.getElementById("b13").addEventListener("click", myFunction);
 function myFunction() {
   document.getElementById("img1").style.display = "none";
   // document.getElementById("demo").src = 'k1.html';
+    document.getElementById("p1").innerHTML = " New text"
 
 }
 
