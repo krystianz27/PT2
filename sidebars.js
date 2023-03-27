@@ -36,6 +36,7 @@
     $("#b1").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k1.html");
 
     });
@@ -44,6 +45,7 @@
     $("#b2").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k2.html");
 
     });
@@ -52,6 +54,7 @@
     $("#b3").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k3.html");
 
     });
@@ -60,6 +63,7 @@
     $("#b4").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k4.html");
 
     });
@@ -68,6 +72,7 @@
     $("#b5").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k5.html");
 
     });
@@ -76,6 +81,7 @@
     $("#b6").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k6.html");
 
     });
@@ -84,6 +90,7 @@
     $("#b7").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k7.html");
 
     });
@@ -92,6 +99,7 @@
     $("#b8").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k8.html");
 
     });
@@ -100,6 +108,7 @@
     $("#b9").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k9.html");
 
     });
@@ -108,6 +117,7 @@
     $("#b10").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k10.html");
 
     });
@@ -116,6 +126,7 @@
     $("#b11").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k11.html");
 
     });
@@ -124,6 +135,7 @@
     $("#b12").click(function(){
       $("#img1").hide();
       $("#img2").hide();
+      $("#img3").hide();
       $("#p1").load("k12.html");
 
     });
